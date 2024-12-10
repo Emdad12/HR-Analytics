@@ -1,6 +1,8 @@
 # HR-Analytics
 ### Project Overview
 In this project, I conducted a comprehensive analysis of employee performance and satisfaction using Power BI. The goal was to uncover insights into performance trends, satisfaction levels, and the influence of education and rating levels on employee outcomes. Using six interconnected tables, I built a robust data model to deliver actionable insights for human resource management.
+### View the Report:
+You can view the live Power BI report here: [View the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWRjZDI3NTQtNDk2Ny00NDM3LWEwMDctODUyZDk1Yjk5NmExIiwidCI6ImRmOTI5NDEzLWVjNjQtNDQyMS1hYjIzLTUyNWZmNGY2ZTRhYyIsImMiOjEwfQ%3D%3D)
 ### Objectives
 - Understand trends in employee performance ratings and satisfaction levels.
 - Analyze how education level impacts performance and satisfaction.
